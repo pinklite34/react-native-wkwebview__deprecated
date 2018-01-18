@@ -1,3 +1,5 @@
+**Forked to add `$(SRCROOT)/../../../ios/Pods/Headers/Public/**` to `HEADER_SEARCH_PATHS` for expo.**
+
 ## WKWebView Component for React Native
 
 [![npm version](https://badge.fury.io/js/react-native-wkwebview-reborn.svg)](https://badge.fury.io/js/react-native-wkwebview-reborn)
